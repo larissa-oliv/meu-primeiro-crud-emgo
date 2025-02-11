@@ -1,4 +1,4 @@
-package RestErr
+package rest_err
 
 import (
 	"net/http"
